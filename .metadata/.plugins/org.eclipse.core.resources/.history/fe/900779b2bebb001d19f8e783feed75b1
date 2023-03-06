@@ -1,0 +1,5 @@
+package com.coope.back;
+
+public class PersonaServiceImp implements PersonaService {
+
+}

@@ -1,0 +1,8 @@
+package com.coope.back;
+
+@CrossOrigin(origins="http://localhost:4200",maxAge=3600)
+@RestController
+@RequestMapping({"/personas"})
+public class controlador {
+
+}

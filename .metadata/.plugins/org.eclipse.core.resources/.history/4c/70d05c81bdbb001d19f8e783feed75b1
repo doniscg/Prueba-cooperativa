@@ -1,0 +1,9 @@
+package com.coope.back;
+
+import jakarta.persistence.Entity;
+
+@Entity
+@Table(name="persona")
+public class Persona {
+
+}
